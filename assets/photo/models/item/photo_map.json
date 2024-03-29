@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "photo:item/photo_map_colored",
+    "layer1": "photo:item/photo_map_empty"
+  }
+}

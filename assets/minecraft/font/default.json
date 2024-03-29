@@ -1,0 +1,53 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "emoji:item/sad.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "emoji:item/smile.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "emoji:item/toung.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "emoji:item/xd.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "emoji:item/laugh.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "button:item/accept.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE100"]
+    },
+    {
+      "type": "bitmap",
+      "file": "button:item/decline.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE101"]
+    }
+  ]
+}
