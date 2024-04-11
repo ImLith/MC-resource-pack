@@ -48,6 +48,13 @@
       "ascent": 8,
       "height": 8,
       "chars": ["\uE101"]
+    },
+    {
+      "type": "bitmap",
+      "file": "icon:item/arrow_right.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE200"]
     }
   ]
 }
